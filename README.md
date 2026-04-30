@@ -57,33 +57,13 @@ Our work centers around building practical software that helps operators, resear
 - Adversary emulation
 - Attack-path analysis
 - Infrastructure automation
-- Security engineering
-
 ---
 
-## Engineering Principles
 
-- Practical tooling over theory
-- Minimal and reliable design
-- Operator-focused workflows
-- Reproducible research environments
-- Clean documentation and maintainable code
 
----
 
-## Projects
-
-| Repository | Purpose |
-|---|---|
-| `homepage` | Public website and landing page |
-| `tools` | Offensive security tools and utilities |
-| `labs` | Research environments and test setups |
-| `infra` | Automation, deployment, and infrastructure code |
-
----
 
 ## Contact
-
 For collaboration, research, or security-related inquiries:
 
 - Website: [odrivenlabs.com](https://odrivenlabs.com)
