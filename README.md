@@ -50,16 +50,6 @@ Our work centers around building practical software that helps operators, resear
 - Infrastructure automation
 ---
 
-## Engineering Principles
-
-- Practical tooling over theory
-- Minimal and reliable design
-- Operator-focused workflows
-- Reproducible research environments
-- Clean documentation and maintainable code
-
-
-
 ## Contact
 - Website: [odrivenlabs.com](https://odrivenlabs.com)
 - X / Twitter: [@OdrivenLabs](https://x.com/OdrivenLabs)
