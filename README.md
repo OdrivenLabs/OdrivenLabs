@@ -9,18 +9,30 @@
 </p>
 
 <p>
-  We build and automate practical offensive security tooling for research, red teams, and security engineering.
+  Building efficient tactical offensive security software for Adversary Emulations / Red Team Operations.
 </p>
 
 <p>
   <a href="https://odrivenlabs.com">
     <img src="https://img.shields.io/badge/Website-odrivenlabs.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
+</p>
+
+<p>
   <a href="https://x.com/OdrivenLabs">
     <img src="https://img.shields.io/badge/X-@OdrivenLabs-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+</p>
+
+<p>
   <a href="https://github.com/OdrivenLabs">
     <img src="https://img.shields.io/badge/GitHub-OdrivenLabs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p>
+  <a href="https://youtube.com/@OdrivenLabs">
+    <img src="https://img.shields.io/badge/YouTube-OdrivenLabs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
