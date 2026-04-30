@@ -1,17 +1,28 @@
 <div align="center">
+
 <img width="96" alt="OdrivenLabs Logo" src="https://github.com/user-attachments/assets/ba8795b5-a037-45ca-bb88-38679a955d2d" />
 
-  ## OdrivenLabs
+<h2>OdrivenLabs</h2>
 
-**Offensive Security Tooling Development**
+<p>
+  <strong>Offensive Security Tooling Development</strong>
+</p>
 
-We build and automate practical offensive security tooling for research, red teams, and security engineering.
+<p>
+  We build and automate practical offensive security tooling for research, red teams, and security engineering.
+</p>
 
-<br />
-
-[![Website](https://img.shields.io/badge/Website-odrivenlabs.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odrivenlabs.com)
-[![X](https://img.shields.io/badge/X-@OdrivenLabs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OdrivenLabs)
-[![GitHub](https://img.shields.io/badge/GitHub-OdrivenLabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OdrivenLabs)
+<p>
+  <a href="https://odrivenlabs.com">
+    <img src="https://img.shields.io/badge/Website-odrivenlabs.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://x.com/OdrivenLabs">
+    <img src="https://img.shields.io/badge/X-@OdrivenLabs-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/OdrivenLabs">
+    <img src="https://img.shields.io/badge/GitHub-OdrivenLabs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
@@ -33,3 +44,4 @@ Red Team Tooling
 Infrastructure Automation
 Attack-Path Analysis
 Security Engineering
+```
