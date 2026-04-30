@@ -9,8 +9,10 @@
 </p>
 
 <p>
-  Building efficient tactical offensive security software for Adversary Emulations / Red Team Operations.
+  Building efficient, tactical offensive security software for adversary emulation and red team operations.
 </p>
+
+<br />
 
 <p>
   <a href="https://odrivenlabs.com">
@@ -42,19 +44,56 @@
 
 ## About
 
-**OdrivenLabs** is an offensive security lab based in Germany.
+**OdrivenLabs** is an offensive security lab focused on the development of tactical security tooling for adversary emulation, red team operations, and security engineering.
 
-We focus on practical security tooling, automation, and attack-path analysis. Our work is built around understanding how systems fail, how attackers operate, and how security teams can turn that knowledge into stronger defenses.
+Our work centers around building practical software that helps operators, researchers, and security teams understand attack paths, automate workflows, and improve offensive security capabilities.
 
 ---
 
 ## Focus Areas
 
-```txt
-Offensive Security Research
-Red Team Tooling
-Infrastructure Automation
-Attack-Path Analysis
-Security Engineering
-```
-<!-- profile-readme-refresh -->
+- Offensive security tooling
+- Red team operations
+- Adversary emulation
+- Attack-path analysis
+- Infrastructure automation
+- Security engineering
+
+---
+
+## Engineering Principles
+
+- Practical tooling over theory
+- Minimal and reliable design
+- Operator-focused workflows
+- Reproducible research environments
+- Clean documentation and maintainable code
+
+---
+
+## Projects
+
+| Repository | Purpose |
+|---|---|
+| `homepage` | Public website and landing page |
+| `tools` | Offensive security tools and utilities |
+| `labs` | Research environments and test setups |
+| `infra` | Automation, deployment, and infrastructure code |
+
+---
+
+## Contact
+
+For collaboration, research, or security-related inquiries:
+
+- Website: [odrivenlabs.com](https://odrivenlabs.com)
+- X / Twitter: [@OdrivenLabs](https://x.com/OdrivenLabs)
+- YouTube: [@OdrivenLabs](https://youtube.com/@OdrivenLabs)
+
+---
+
+<div align="center">
+
+<strong>OdrivenLabs — Offensive Security Tooling Development</strong>
+
+</div>
